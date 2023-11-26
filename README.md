@@ -10,6 +10,7 @@ The purpose of my website is to enhance the students access to information on th
 
 
 WEBSITE LAYOUT
+
 •	HOME PAGE
 The homepage of the website gives a brief description on the courses offered by the department of computer science.
 
